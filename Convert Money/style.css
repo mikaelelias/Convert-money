@@ -35,8 +35,8 @@ label {
 }
 
 .value_to_converter,
-.converted_value,
-.value {
+.currency_select,
+.input_currency {
     background: #ffffff;
     border: 1px solid #bbbbbb;
     border-radius: 4px;
@@ -99,7 +99,7 @@ button:active {
     font-size: 20px;
 }
 
-.currency-value {
+.currency-value, .currency-value-to-convert {
     color: #555555;
     font-weight: 700;
     font-size: 20px;
