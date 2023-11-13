@@ -35,8 +35,8 @@ label {
     font-size: 14px;
 }
 
-.value_to_converter,
-.currency_select,
+.currency-select-initial,
+.currency-select-second,
 .input_currency {
     background: #ffffff;
     border: 1px solid #bbbbbb;
